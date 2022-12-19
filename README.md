@@ -12,8 +12,8 @@ whisper ai naive usage on personal mp3 database
 ├── output
 ├── README.md
 └── src
-├── log.md
-├── test1.py
-└── test2.py
+    ├── log.md
+    ├── test1.py
+    └── test2.py
 ```
 
